@@ -1,0 +1,27 @@
+import java.sql.SQLDataException;
+import java.sql.DriverManager;
+import java.sql.*;
+
+public class sqljava {
+
+	public static void main(String[] args) throws ClassNotFoundException, SQLException {
+		// Driver Register
+		Class.forName("com.mysql.cj.jdbc.Driver");
+		Connection conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1/nsti","root","");
+		System.out.println("connected" + conn);
+		
+		Statement st = conn.createStatement();
+		st.executeUpdate("create database nsti");
+		
+//		ResultSet rs = st.executeQuery("show databases");
+//		
+//		System.out.println("databases are : " + rs);
+//		while(rs.next()) {
+//			System.out.println(rs.getString(1));
+			
+//		}
+		
+
+	}
+
+}
