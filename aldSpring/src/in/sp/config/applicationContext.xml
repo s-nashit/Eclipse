@@ -7,12 +7,13 @@
 
     <!-- bean definitions here -->
     
-    <bean class="in.sp.beans.user" id="user1">
+    <bean class="in.sp.beans.studentC" id="user1">
 			
 			
-			<property name="uname" value="anjali"></property>
-			<property name="pass" value="1223_as"></property>
-				<property name="mail" value="anjali@abc.com"></property>
+			<property name="name" value="anjali"></property>
+			<property name="age" value="1223_as"></property>
+			<property name="mail" value="anjali@abc.com"></property>
+			<property name="phone" value="78554446"></property>
 					
 		</bean>
 

@@ -3,4 +3,6 @@
     <fullyQualifiedTypeName name="java.sql.SQLDataException"/>
     <fullyQualifiedTypeName name="java.awt.Color"/>
     <fullyQualifiedTypeName name="java.awt.Image"/>
+    <fullyQualifiedTypeName name="in.sp.beans.user"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
 </qualifiedTypeNameHistroy>

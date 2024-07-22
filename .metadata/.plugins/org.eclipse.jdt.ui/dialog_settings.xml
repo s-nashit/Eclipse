@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="0"/>
 	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-21"/>
-	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\ANJALI\Downloads\mysql-connector-j-8.4.0\apache-tomcat-10.1.24\lib"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\ANJALI\Downloads"/>
 	<item key="org.eclipse.jdt.ui.last.selected.project.jre" value="jdk-22"/>
 	<item key="org.eclipse.jdt.ui.last.selected.create.moduleinfo.comments" value="false"/>
 	<item key="org.eclipse.jdt.ui.last.selected.create.moduleinfo" value="false"/>
@@ -97,5 +97,19 @@
 	</section>
 	<section name="NewPackageWizardPage">
 		<item key="create_package_info_java" value="false"/>
+	</section>
+	<section name="NewInterfaceCreationWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="133"/>
+		<item key="DIALOG_Y_ORIGIN" value="74"/>
+		<item key="DIALOG_WIDTH" value="710"/>
+		<item key="DIALOG_HEIGHT" value="661"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="NewAnnotationCreationWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="109"/>
+		<item key="DIALOG_Y_ORIGIN" value="37"/>
+		<item key="DIALOG_WIDTH" value="758"/>
+		<item key="DIALOG_HEIGHT" value="716"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 </section>
