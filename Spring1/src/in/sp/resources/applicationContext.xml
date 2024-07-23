@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+    
+  <!--  <bean class="in.sp.beans.skills" id="sk1">
+		<constructor-arg value="MEAN"></constructor-arg>
+		<constructor-arg value="Azure"></constructor-arg>
+		<constructor-arg value="TensorFlow"></constructor-arg>
+	</bean>
+
+	
+    <bean class="in.sp.beans.Student" id = "s1">
+		<constructor-arg value = "Anjali"></constructor-arg>
+		<constructor-arg value = "anjali@hotmIL.COM"></constructor-arg>
+		<constructor-arg value = "Paryagraj"></constructor-arg>
+		<constructor-arg ref = "sk1"></constructor-arg>
+
+	</bean> -->
+	<bean class = "in.sp.beans.skills" id = "sk1">
+		<property name="web" value="MERN"></property>
+		<property name="cloud" value="SalesForce"></property>
+		<property name="da" value="IBM Watson"></property>
+	
+	</bean>	
+	
+	<bean class = "in.sp.beans.Student" id = "s1">
+		<property name="name" value="anjali"></property>
+		<property name="mail" value="anu@avbc.com"></property>
+		<property name="location" value="ald"></property>
+		<property name="skills" ref="sk1"></property>
+	</bean>
+
+</beans>
