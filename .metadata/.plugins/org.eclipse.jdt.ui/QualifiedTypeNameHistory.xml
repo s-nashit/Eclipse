@@ -5,4 +5,8 @@
     <fullyQualifiedTypeName name="java.awt.Image"/>
     <fullyQualifiedTypeName name="in.sp.beans.user"/>
     <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="com.StudentsManagement.repository.Studentrepository"/>
+    <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
 </qualifiedTypeNameHistroy>

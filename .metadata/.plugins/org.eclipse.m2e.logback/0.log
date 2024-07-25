@@ -2051,3 +2051,385 @@
 2024-07-23 16:21:06,442 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-07-23 16:21:06,457 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-07-23 16:21:06,460 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-07-23 17:02:00,958 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-23 17:15:00,120 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-23 17:15:00,157 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-23 17:15:00,164 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-23 17:16:07,100 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-23 17:16:07,108 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-23 17:16:07,112 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-23 17:16:13,880 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-23 17:16:13,891 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-23 17:16:13,903 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 10:13:56,345 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-24 13:37:03,568 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 13:37:03,606 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 13:37:03,613 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 13:41:14,054 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 13:41:14,061 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 13:41:14,066 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 13:45:50,169 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 13:45:50,222 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 13:45:50,227 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 14:02:58,502 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 14:02:58,511 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 14:02:58,517 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 15:08:11,441 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 15:08:11,443 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 15:08:11,450 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 15:10:15,340 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 15:10:15,341 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 15:10:15,347 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 15:10:18,666 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 15:10:18,675 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 15:10:18,679 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 15:30:52,838 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 15:30:52,864 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 15:30:52,867 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 15:31:33,473 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 15:31:33,484 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 15:31:33,488 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 15:31:36,752 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 15:31:36,760 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 15:31:36,764 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 15:36:53,241 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-24 15:36:53,258 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 15:36:53,262 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 15:38:51,480 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-24 15:38:51,491 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 15:38:51,494 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 15:40:32,320 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-24 15:40:32,347 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 15:40:32,397 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 15:47:59,905 [Worker-65: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Anjali:StudentsManagement:0.0.1-SNAPSHOT @ C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\pom.xml.
+2024-07-24 15:48:00,901 [Worker-65: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.3.2/spring-boot-starter-validation-3.3.2.pom
+2024-07-24 15:48:00,909 [Worker-65: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/2.2.224/h2-2.2.224.pom
+2024-07-24 15:48:01,681 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 15:48:01,682 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 15:48:01,688 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 15:48:02,536 [Worker-80: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.geekster.project.assignment:University-Event-Management:jar:sources:0.0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-24 15:48:02,616 [Worker-80: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.3.2/spring-boot-starter-validation-3.3.2-sources.jar
+2024-07-24 15:48:02,629 [Worker-80: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.boot:spring-boot-starter-validation:3.3.2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.boot:spring-boot-starter-validation:jar:sources:3.3.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-24 15:48:02,638 [Worker-80: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/2.2.224/h2-2.2.224-sources.jar
+2024-07-24 15:48:02,641 [Worker-80: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.h2database:h2:2.2.224
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.h2database:h2:jar:sources:2.2.224
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-24 15:48:04,506 [Worker-65: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Anjali:StudentsManagement:0.0.1-SNAPSHOT @ C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\pom.xml.
+2024-07-24 15:48:05,364 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 15:48:05,365 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 15:48:05,369 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 15:48:06,271 [Worker-73: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.geekster.project.assignment:University-Event-Management:jar:javadoc:0.0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-24 15:48:06,282 [Worker-73: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.3.2/spring-boot-starter-validation-3.3.2-javadoc.jar
+2024-07-24 15:48:06,286 [Worker-73: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.boot:spring-boot-starter-validation:3.3.2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.boot:spring-boot-starter-validation:jar:javadoc:3.3.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-24 15:48:06,297 [Worker-73: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/2.2.224/h2-2.2.224-javadoc.jar
+2024-07-24 15:48:06,300 [Worker-73: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.h2database:h2:2.2.224
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.h2database:h2:jar:javadoc:2.2.224
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-24 16:05:46,353 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:05:46,355 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 16:05:46,368 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 16:09:48,115 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:09:48,116 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:09:48,118 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 16:09:51,909 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:09:51,910 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 16:09:51,913 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 16:10:08,627 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:10:08,628 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:10:08,629 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 16:10:13,418 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:10:13,419 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:10:13,420 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 16:10:19,512 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:10:19,513 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:10:19,516 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 16:25:25,037 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:25:25,037 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:25:25,040 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 16:26:26,941 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:26:26,941 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:26:26,943 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 16:30:59,303 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 16:30:59,322 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:30:59,324 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 16:31:11,117 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 16:31:11,123 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:31:11,125 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 16:32:03,951 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 16:32:03,956 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:32:03,958 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 16:32:17,954 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 16:32:17,959 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:32:17,960 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 16:32:28,754 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 16:32:28,761 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:32:28,763 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 16:32:36,832 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 16:32:36,838 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:32:36,840 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 16:35:10,944 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:35:10,945 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:35:10,948 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 16:35:40,769 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-07-24 16:35:52,035 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [635])
+2024-07-24 16:35:52,037 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-07-24 16:35:52,038 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2024-07-24 16:35:52,038 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2024-07-24 16:35:52,038 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2024-07-24 16:35:52,038 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2024-07-24 16:35:52,038 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2024-07-24 16:35:52,038 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2024-07-24 16:35:52,038 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2024-07-24 16:35:52,039 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2024-07-24 16:35:52,039 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2024-07-24 16:35:52,039 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2024-07-24 16:35:52,039 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2024-07-24 16:35:52,039 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2024-07-24 16:35:52,039 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2024-07-24 16:35:52,039 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2024-07-24 16:35:52,039 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2024-07-24 16:35:52,039 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2024-07-24 16:35:52,040 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2024-07-24 16:35:52,040 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2024-07-24 16:35:52,040 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2024-07-24 16:35:52,040 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2024-07-24 16:35:52,040 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2024-07-24 16:35:52,041 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2024-07-24 16:35:52,041 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2024-07-24 16:35:52,041 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2024-07-24 16:35:52,041 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2024-07-24 16:35:52,041 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2024-07-24 16:35:52,041 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2024-07-24 16:35:52,041 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2024-07-24 16:35:52,042 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-07-24 16:35:52,042 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-07-24 16:35:52,042 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2024-07-24 16:35:52,042 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2024-07-24 16:35:52,042 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2024-07-24 16:35:52,042 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2024-07-24 16:35:52,042 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2024-07-24 16:35:52,042 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2024-07-24 16:35:52,043 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2024-07-24 16:35:52,043 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2024-07-24 16:35:52,043 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2024-07-24 16:35:52,043 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2024-07-24 16:35:52,043 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2024-07-24 16:35:52,045 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [14])
+2024-07-24 16:35:52,045 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\com.google.guava_33.0.0.jre.jar
+2024-07-24 16:35:52,045 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [998])
+2024-07-24 16:35:52,045 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\slf4j.api_2.0.13.jar
+2024-07-24 16:35:52,045 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [32])
+2024-07-24 16:35:52,046 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-07-24 16:35:52,046 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [27])
+2024-07-24 16:35:52,046 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2024-07-24 16:35:52,046 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [75])
+2024-07-24 16:35:52,046 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2024-07-24 16:35:52,046 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2024-07-24 16:35:52,046 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-07-24 16:35:52,046 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [86])
+2024-07-24 16:35:52,047 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-07-24 16:35:52,047 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [15])
+2024-07-24 16:35:52,047 [Worker-75: Launching StudentsManagement] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ANJALI\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-07-24 16:35:52,050 [Worker-75: Launching StudentsManagement] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement":
+2024-07-24 16:35:52,050 [Worker-75: Launching StudentsManagement] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always 
+2024-07-24 16:58:37,191 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 16:58:37,192 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 16:58:37,195 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 17:01:17,101 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 17:01:17,102 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 17:01:17,103 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 17:08:25,756 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 17:08:25,758 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-24 17:08:25,761 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 17:12:13,983 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 17:12:13,984 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 17:12:13,987 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-24 17:18:39,962 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-24 17:18:39,983 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-24 17:18:39,986 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-25 13:45:21,305 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-25 13:48:54,664 [Worker-9: Launching StudentsManagementApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.3.2/spring-boot-starter-validation-3.3.2.pom
+2024-07-25 13:48:54,704 [Worker-9: Launching StudentsManagementApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.3.2/spring-boot-starter-validation-3.3.2.pom
+2024-07-25 13:48:54,986 [Worker-9: Launching StudentsManagementApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/2.2.224/h2-2.2.224.pom
+2024-07-25 13:48:55,010 [Worker-9: Launching StudentsManagementApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/2.2.224/h2-2.2.224.pom
+2024-07-25 13:48:55,098 [Worker-9: Launching StudentsManagementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/University-Event-Management: com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT with classifier  to /University-Event-Management/target/classes
+2024-07-25 13:48:55,137 [Worker-9: Launching StudentsManagementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/University-Event-Management: com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT with classifier  to /University-Event-Management/target/classes
+2024-07-25 13:48:55,219 [Worker-9: Launching StudentsManagementApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.3.2/spring-boot-starter-validation-3.3.2.jar
+2024-07-25 13:48:55,302 [Worker-9: Launching StudentsManagementApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.3.2/spring-boot-starter-validation-3.3.2.jar
+2024-07-25 13:48:55,386 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/2.2.224/h2-2.2.224.jar
+2024-07-25 13:48:58,349 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/2.2.224/h2-2.2.224.jar
+2024-07-25 13:48:58,872 [Worker-9: Launching StudentsManagementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/University-Event-Management: com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT with classifier null to /University-Event-Management/target/classes
+2024-07-25 13:48:59,025 [Worker-9: Launching StudentsManagementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/University-Event-Management: com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT with classifier null to /University-Event-Management/target/classes
+2024-07-25 13:48:59,139 [Worker-9: Launching StudentsManagementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/University-Event-Management: com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT with classifier null to /University-Event-Management/target/classes
+2024-07-25 13:55:38,187 [Worker-17: Launching StudentsManagementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/University-Event-Management: com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT with classifier null to /University-Event-Management/target/classes
+2024-07-25 13:55:38,299 [Worker-17: Launching StudentsManagementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/University-Event-Management: com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT with classifier null to /University-Event-Management/target/classes
+2024-07-25 13:55:38,373 [Worker-17: Launching StudentsManagementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/University-Event-Management: com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT with classifier null to /University-Event-Management/target/classes
+2024-07-25 14:06:39,873 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-25 14:06:39,909 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-07-25 14:06:39,914 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-25 14:25:47,729 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 14:25:47,736 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 14:25:47,758 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-25 14:38:24,197 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 14:38:24,199 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 14:38:24,205 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-25 14:38:56,854 [Worker-46: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 14:38:56,857 [Worker-46: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 14:38:56,865 [Worker-46: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-25 14:39:21,712 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 14:39:21,713 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 14:39:21,718 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-25 14:43:44,987 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 14:43:44,988 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 14:43:44,994 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-25 14:44:44,482 [Worker-17: Launching StudentsManagementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/University-Event-Management: com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT with classifier null to /University-Event-Management/target/classes
+2024-07-25 14:44:44,583 [Worker-17: Launching StudentsManagementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/University-Event-Management: com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT with classifier null to /University-Event-Management/target/classes
+2024-07-25 14:44:44,672 [Worker-17: Launching StudentsManagementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/University-Event-Management: com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT with classifier null to /University-Event-Management/target/classes
+2024-07-25 15:10:56,874 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 15:10:56,875 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 15:10:56,880 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-25 15:11:55,902 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 15:11:55,903 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 15:11:55,907 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-25 15:12:21,697 [Worker-41: Launching StudentsManagementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/University-Event-Management: com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT with classifier null to /University-Event-Management/target/classes
+2024-07-25 15:12:21,784 [Worker-41: Launching StudentsManagementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/University-Event-Management: com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT with classifier null to /University-Event-Management/target/classes
+2024-07-25 15:12:21,860 [Worker-41: Launching StudentsManagementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/University-Event-Management: com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT with classifier null to /University-Event-Management/target/classes
+2024-07-25 15:13:14,674 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-25 15:13:28,225 [Worker-33: Launching StudentsManagementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/University-Event-Management: com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT with classifier  to /University-Event-Management/target/classes
+2024-07-25 15:13:28,801 [Worker-33: Launching StudentsManagementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/University-Event-Management: com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT with classifier null to /University-Event-Management/target/classes
+2024-07-25 15:13:28,977 [Worker-33: Launching StudentsManagementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/University-Event-Management: com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT with classifier null to /University-Event-Management/target/classes
+2024-07-25 15:13:29,123 [Worker-33: Launching StudentsManagementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/University-Event-Management: com.geekster.project.assignment:University-Event-Management:0.0.1-SNAPSHOT with classifier null to /University-Event-Management/target/classes
+2024-07-25 15:23:52,779 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-25 15:23:52,808 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-07-25 15:23:52,824 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-25 15:24:21,662 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 15:24:21,666 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 15:24:21,671 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-25 15:33:49,245 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 15:33:49,248 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 15:33:49,254 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-25 15:38:02,135 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 15:38:02,137 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 15:38:02,142 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-25 15:42:27,214 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 15:42:27,217 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 15:42:27,224 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-25 15:44:23,675 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 15:44:23,676 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 15:44:23,683 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-25 15:51:58,762 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 15:51:58,764 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 15:51:58,768 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-25 15:52:32,478 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 15:52:32,479 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 15:52:32,500 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-25 15:59:57,357 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 15:59:57,358 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 15:59:57,365 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
+2024-07-25 16:00:43,505 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-25 16:00:43,506 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-25 16:00:43,510 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ANJALI\Desktop\Eclipse\ums\StudentsManagement\StudentsManagement\src\test\resources
